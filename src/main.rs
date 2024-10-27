@@ -1,4 +1,7 @@
+mod routes;
+
 use autometrics::{autometrics, prometheus_exporter};
+
 use axum::{
     http::StatusCode,
     routing::{get, post},
