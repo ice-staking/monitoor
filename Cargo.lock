@@ -736,6 +736,7 @@ dependencies = [
  "autometrics",
  "axum",
  "serde",
+ "thiserror",
  "tokio",
  "tower-http",
  "tracing",

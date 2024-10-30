@@ -1,5 +1,5 @@
 mod routes;
-
+mod errors;
 use autometrics::{autometrics, prometheus_exporter};
 
 use axum::{
