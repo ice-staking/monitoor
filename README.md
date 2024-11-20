@@ -1,6 +1,4 @@
-# monitoor
-
-A custom monitering system for a rpc / validator node
+<img width="1280" alt="Monitoor" src="https://github.com/user-attachments/assets/35dd27b0-fdd7-49a5-bdcd-299a305001ab">
 
 ## Parts
 
